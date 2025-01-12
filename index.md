@@ -1,5 +1,5 @@
 ---
-title: Welcome to @thedevy Github page;3
+title: Welcome to Devy Github page
 ---
 # About me
 I am just basic guy, who damn really interested in coding, learning, and other things. I love Linux BTW
